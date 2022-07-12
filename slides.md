@@ -55,7 +55,7 @@ css: unocss
   <li>TypeScriptサポート</li>
   <li>Astro & Viteサポート</li>
 </ul>
-<img src="スクリーンショット 2022-07-05 15.14.13.png" style="width: 500px" alt="">
+<img src="/state.png" style="width: 500px" alt="">
 </div>
 
 ---
@@ -103,7 +103,7 @@ css: unocss
     <h3>パフォーマンス</h3>
     <div style="display: flex; justify-content: space-between">
       <p>Vanillaと変わりないパフォーマンスらしい</p>
-      <img src="スクリーンショット 2022-07-05 15.42.36.png" alt="" style="width: 400px">
+      <img src="/performance.png" alt="" style="width: 400px">
     </div>
   </div>
 </div>
